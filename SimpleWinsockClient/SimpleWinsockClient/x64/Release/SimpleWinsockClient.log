@@ -1,0 +1,10 @@
+﻿  main.cpp
+G:\VSProject\SimpleWinsockFramework\SimpleWinsockClient\SimpleWinsockClient\PacketLittleEndianReader.h(45,1): warning C4305: '+=': 從 'int' 轉換為 'short'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+G:\VSProject\SimpleWinsockFramework\SimpleWinsockClient\SimpleWinsockClient\PacketLittleEndianWriter.h(141,1): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+G:\VSProject\SimpleWinsockFramework\SimpleWinsockClient\SimpleWinsockClient\PacketLittleEndianWriter.h(182,12): warning C4244: '正在初始化': 將 'std::streamoff' 轉換為 'int'，由於類型不同，可能導致資料遺失
+G:\VSProject\SimpleWinsockFramework\SimpleWinsockClient\SimpleWinsockClient\PacketLittleEndianWriter.h(189,1): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 545 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  SimpleWinsockClient.vcxproj -> G:\VSProject\SimpleWinsockFramework\SimpleWinsockClient\x64\Release\SimpleWinsockClient.exe
